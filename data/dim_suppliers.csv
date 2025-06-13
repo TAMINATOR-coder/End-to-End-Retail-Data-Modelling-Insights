@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,reliability_score,lead_time_days
+S001,"Kennedy, Gates and Brown",Antigua and Barbuda,92,18
+S002,Phillips-Davenport,Uzbekistan,100,19
+S003,Barnes-Kramer,Cape Verde,90,13
+S004,"Nelson, Gordon and Morales",United States of America,85,8
+S005,Spencer Group,Israel,95,5
+S006,"Wilson, Jimenez and Lewis",Monaco,79,11
+S007,Owens-Reyes,Jamaica,83,20
+S008,"Tran, Rogers and Williams",Papua New Guinea,85,12
+S009,Johnston Inc,American Samoa,89,12
+S010,Baker-Soto,Maldives,95,12

@@ -29,7 +29,7 @@ CREATE DATABASE Tech_Nova_Business_Analysis;
 ```
 
 
-## Create and Populate Dimension Tables
+## Create & Populate Tables
 
 ### Suppliers Table 
 ```sql

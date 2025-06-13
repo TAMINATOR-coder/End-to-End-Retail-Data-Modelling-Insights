@@ -161,7 +161,7 @@ IGNORE 1 ROWS
 ```
 
 
-## Business Insights Queries
+## Business Insights (SQL Queries)
 
 ### 1. Top 5 Revenue-Generating Products (Last 6 Months)
 

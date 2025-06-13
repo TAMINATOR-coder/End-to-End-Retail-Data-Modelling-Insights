@@ -4,17 +4,15 @@
 2. [Tools Used](#tools-used)  
 3. [Raw Data](#raw-data)  
 4. [Database Setup](#database-setup)  
-5. [Data Modeling (Schema Design)](#data-modeling-schema-design)  
-6. [Create & Populate Tables](#create--populate-tables)  
+5. [Create & Populate Tables](#create--populate-tables)  
    - [Suppliers Table](#suppliers-table)  
    - [Customers Table](#customers-table)  
    - [Products Table](#products-table)  
    - [Date Table](#date-table)  
    - [Fact Sales Table](#fact-sales-table)  
 7. [Business Insights (SQL Queries)](#business-insights-sql-queries)  
-8. [Project Structure](#project-structure)  
-9. [How to Use This Project](#how-to-use-this-project)  
-10. [Author](#author)
+
+
 # End-to-End Retail Data-Modelling Insights
 This project demonstrates how to build a normalized SQL database for a retail company and extract actionable business insights using raw .csv files and MySQL.
 

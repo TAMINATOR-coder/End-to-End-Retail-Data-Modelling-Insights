@@ -10,7 +10,8 @@
    - [Products Table](#products-table)  
    - [Date Table](#date-table)  
    - [Fact Sales Table](#fact-sales-table)  
-7. [Business Insights (SQL Queries)](#business-insights-sql-queries)  
+7. [Business Insights (SQL Queries)](#business-insights-sql-queries)
+8. [Recommendations](#-recommendations)
 
 
 # End-to-End Retail Data-Modelling Insights
@@ -236,3 +237,23 @@ GROUP BY fs.Payment_Method
 HAVING Total_Value > 1000
 ORDER BY Total_Value DESC;
 ```
+
+## Recommendations
+
+Based on the SQL analysis conducted in this project, the following business recommendations are proposed:
+
+1. **Double Down on High-Performing Products**  
+   Focus marketing and stock replenishment on the top 5 revenue-generating products identified over the last 6 months. These products are proven performers and likely to yield continued returns.
+
+2. **Reward and Retain Loyal Customers**  
+   Implement loyalty programs or exclusive offers for customers with 10+ delivered orders. These customers have demonstrated high engagement and should be prioritized for retention strategies.
+
+3. **Plan Around Peak Sales Months**  
+   The month with the highest sales volume and revenue indicates a strong seasonal trend. Leverage this insight for future inventory planning, marketing campaigns, and staffing.
+
+4. **Reevaluate Low-Performing Suppliers**  
+   Suppliers with low reliability scores and long lead times can negatively impact operations. Review contracts, explore alternatives, or set performance improvement targets.
+
+5. **Streamline Popular Payment Methods**  
+   Promote and optimize for the most commonly used payment methods among high-value transactions to improve customer experience and reduce cart abandonment.
+

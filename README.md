@@ -14,7 +14,7 @@
 
 
 # End-to-End Retail Data-Modelling Insights
-This project demonstrates how to build a normalized SQL database for a retail company and extract actionable business insights using raw .csv files and MySQL.
+This project demonstrates how to build a normalized SQL database for a retail company and extract actionable business insights using raw .csv files and MySQL. The insights generated helped optimised sales, supply chain efficiency, and customer retention strategies.
 
 ## Tools Used
  * MySQL 8.0
